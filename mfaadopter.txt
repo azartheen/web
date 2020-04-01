@@ -1,0 +1,7 @@
+$fn =([System.Reflection.Assembly]::LoadFile("C:\temp\mfa\MFAadapter.dll")).FullName
+
+
+$typeName = "MFAadapter.MyAdapter, " + $fn.ToString() + ",processorArchitecture=MSIL"
+
+
+Register-AdfsAuthenticationProvider -TypeName $typeName -Name"PerimeterMFA" -ConfigurationFilePath'c:\temp\mfa\perimetermfa.json'

